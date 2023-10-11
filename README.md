@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macury
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web design
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {faruqlife004@gmail.com}
 
